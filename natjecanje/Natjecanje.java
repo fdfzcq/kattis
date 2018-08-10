@@ -57,18 +57,6 @@ public class Natjecanje {
             }
 
             System.out.println(res);
-
-            // if(n_damaged <= n_reserve){
-            // 	System.out.println(0);
-            // } else {
-            // 	System.out.println(n_damaged - n_reserve);
-            // }
-            // sc.nextLine();
-            // sc.nextLine();
-            // int[] damaged_teams = new Int(n_damaged)
-            // int[] reserve_teams = new Int(n_reserve)
-
-            // System.out.println(a[0]);
         }
     }
 
